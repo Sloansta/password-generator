@@ -6,4 +6,6 @@
 
 If both options 2 and 3 are not wanted, the user will have generated for them a password that is completely lowercase.
 
+![image](./Assets/03-javascript-homework-demo.png)
+
 Live site here: https://sloansta.github.io/password-generator/
