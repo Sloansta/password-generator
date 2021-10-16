@@ -32,7 +32,7 @@ function generatePassword() {
   if(passLength >= 8 && passLength <= 128) {
     let wantUpCase = confirm("Would you like upper case characters in your password?");
     let wantSymbol = confirm("Would you like symbols in your password?");
-    for(let i = 0; i <= passLength; i++) {
+    for(let i = 0; i < passLength; i++) {
       let char = 0;
 
       //Password generation 
