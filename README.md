@@ -5,3 +5,5 @@
 - Option 3: Whether or not the user wants to add symbols to their password
 
 If both options 2 and 3 are not wanted, the user will have generated for them a password that is completely lowercase.
+
+Live site here: https://sloansta.github.io/password-generator/
